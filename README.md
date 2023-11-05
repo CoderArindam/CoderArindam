@@ -25,7 +25,7 @@ Whether it's coding a pixel-perfect web app or brainstorming the next big thing,
 - 🔍 Search from millions of movies and TV shows.
 - 🍿 Your ultimate entertainment companion.
 
-🔗 [Explore Movix]([https://movixapp.com](https://movix-streaming.web.app/))
+🔗 Explore Movix: https://movix-streaming.web.app
 
 Let's bring the cinematic world to your fingertips. Join us on this incredible journey!
 
@@ -47,6 +47,8 @@ Crafted using the web essentials of HTML, CSS, and JavaScript, CARA is more than
 CARA isn't just a project;
 it's your ticket to fashion paradise. Explore, reminisce, and witness the journey of a coder who's come a long way.
 Your support and feedback mean the world! 🌍🙌💖
+
+🔗 Explore CARA: https://coderarindam.github.io/e-commerce-website/
 
 ## 💻 Languages and Tools
 
