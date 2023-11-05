@@ -27,7 +27,7 @@ Whether it's coding a pixel-perfect web app or brainstorming the next big thing,
 
 🔗 Explore Movix: https://movix-streaming.web.app
 
-Let's bring the cinematic world to your fingertips. Join us on this incredible journey!
+Let's bring the cinematic world to your fingertips. Join me on this incredible journey!
 
 **PROJECT 2** ### **CARA: Your Stylish Closet Companion** 👗🛒
 
@@ -56,7 +56,7 @@ Your support and feedback mean the world! 🌍🙌💖
 - 💻 JavaScript: The language of the web.
 - 🎨 VS Code: My trusty code editor.
 - ⚙️ HTML & CSS: The building blocks of the internet.
-- 🌟 Most importantly I belive in continues learning.
+- 🌟 Most importantly I believe in continues learning.
 
 ## 🌐 Let's Connect
 
