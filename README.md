@@ -2,7 +2,7 @@
 # Hi 👋, I'm Arindam Mukherjee
 
 <h3 align="center">
-Full Stack Software Engineer • MERN Stack Developer • Next.js Developer
+Full Stack Software Engineer • MERN Stack Developer
 </h3>
 
 <p align="center">
